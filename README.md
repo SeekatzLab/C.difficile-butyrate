@@ -1,4 +1,4 @@
-# C.innocuum-butyrate
+# C.difficile-butyrate
 
 This repository includes processed sequence files, raw data files, sequence processing steps, and code used in the manuscript, "Butyrate enhances Clostridioides difficile sporulation in vitro".
 
